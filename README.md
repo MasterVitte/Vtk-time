@@ -1,6 +1,6 @@
-# new-vtk-time
+# vtk-time
 
-> A Vue.js project
+> A Vue.js project for the education timetable
 
 ## Build Setup
 
